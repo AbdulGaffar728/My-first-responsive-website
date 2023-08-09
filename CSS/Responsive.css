@@ -1,0 +1,898 @@
+    /* For Mobile */
+@media(max-width:491px){
+  #HH{
+  display: none;
+ }
+ #Links{
+   width: 100vw;
+   font-size: small;
+   display: flex;
+   align-items: center;
+   justify-content:space-evenly;
+   background-color: black;
+   border-radius: 10px;
+   padding: auto;
+   padding-top: 10px;
+   padding-bottom: 10px;
+ }
+ #Links a{
+   color: white;
+ }
+ .Head{
+   display: flex;
+   font-size: small;
+   
+ }
+ #Second{
+   
+   margin-top: 30px;
+ }
+ 
+ #One{
+  font-size: 10px;
+   width: 70vw;
+ }
+ #Two,#Thre{
+   display: none;
+ }
+ 
+ #FImg{
+   margin-bottom: 5vw;
+   height: 45vw;
+   padding-top: 10vw;
+   padding: auto;
+   width: 94vw;
+ }
+ .NChi{
+   display: flex;
+ }
+ 
+ #butn{
+   color: white;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: black;
+   font-size: x-small;
+   font-style: normal;
+   word-spacing: normal;
+   height: 8vw;
+   width: 40vw;
+   position: absolute;
+   z-index: 3;
+   margin-left: 3vw;
+   margin-top: 3vw;
+   
+ }
+ #buttn{
+   border: 1px solid black;
+   position: relative;
+   left: 4vw;
+   top: 4vw;
+   height: 8vw;
+   width: 40vw;
+   z-index: 2;
+
+ }
+ .NChild{ 
+   font-style: italic;
+   font-size: small;
+   width: 90vw;
+   word-spacing: 4px;
+   margin-left: 5px;
+   margin-top: 5px;
+   
+ }
+ /* Fourth */
+ 
+ .FChild{
+   
+   width: 100vw;
+ }
+ .NFBC{
+   margin: 5px;
+   font-weight: bold;
+   font-size: 18px;
+ }
+ .Class{
+   display: flex;
+ }
+ .NFCh{
+   font-size: 16px;
+  width: 30vw;
+  font-style: italic;
+  position:relative;
+  left: 5px;
+  color: red;
+ }
+ .NFChi{
+   font-size: 14px;
+   padding-left: 8px;
+   word-spacing: 1px;
+   width: 70vw;
+ }
+ #Imag{
+  height: 60vw;
+  width: 40vw;
+  margin: auto;
+  margin-right: 1vw;
+  margin-top: 3vw;
+}
+#Imeg{
+  height: 60vw;
+  width: 40vw;
+  margin: auto;
+  margin-bottom: 3vw;
+  margin-left: 01vw;
+
+}
+
+ .help{
+   margin: 2vw;
+   margin-right: 5vw;
+   font-weight: bold;
+   font-size: 20px;
+ }
+ .FChi{
+   display: flex;
+   
+ }
+ .FChiOne{
+   font-size: small;
+ }
+ .Web{
+    font-size: 20px;
+ }
+ .Para{
+   font-size: 15px;
+ }
+
+ .SImg{
+   
+   height: 50vw;
+   width: 98vw;
+   margin: 10px auto 20px auto;
+ }
+  
+ 
+ 
+ .FChiTwo{
+   height: 45vw;
+   width: 98vw;
+   margin: auto;
+ }
+ .SixC{
+   margin-left: 2vw;
+ }
+
+ .Seventh{
+   display: none;
+ }
+ 
+ .SevRep{
+  padding: 2vw;
+  padding-left: 1vw;   
+  background-color: rgb(49, 23, 5);
+  height: fit-content;
+  width: 98vw;
+  margin: auto;
+  color: white;
+} 
+.Headng{
+  padding: 2vw;
+  width: 40vw;
+  font-size: large;
+} 
+#Uniqe{
+  background-color: dimgrey;
+  height: max-content;
+  width: 80vw;
+  margin-left: 2vw;
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+}
+.Paragra{
+  width: 80vw;
+  font-size: 13px;
+}
+.Headg{
+   font-size: 15px;
+   width: 40vw;
+}
+ .Heading{
+    font-size: 15px;
+ }
+ .Eight{
+   height: fit-content;
+   width: 100vw;
+   border-bottom: 3px solid silver;
+   margin: auto;
+ }
+ 
+ i{
+   
+   font-size: smaller;
+   letter-spacing: 2px;
+ }
+ .Icon{
+
+   color: green;
+ }
+ .ENesChi{
+   display: flex;
+   width: 80vw;
+ }
+ .RImg{
+   height: 40px;
+   width: 40px;
+   border-radius: 50%;
+ }
+ .EigChiOne{
+   height: fit-content;
+   width: 90vw;
+   margin: 2vw;
+   padding-left: 10px;
+ }
+ .Rev{
+   padding: 3px;
+ }
+ .EigChiTwo{
+
+   margin: 1vw;
+   padding: 0vw;
+ }
+ .Map{
+   
+   height: 60vw;
+   width: 80vw;
+ }
+ .Comnt{
+   font-size: 12px;
+   margin-left: 2px;
+ 
+ }
+ .aLink{
+   text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+ }
+
+ .Arrow{
+   height: max-content;
+   width: max-content;
+   color: darkorange;
+ }
+ .Tenth{
+   margin-top: 30px;
+   /* display: flex; */
+   height: fit-content;
+   width: 100vw;
+   margin-left: auto;
+ }
+ .TenChiOne{
+   width: 60vw;
+   padding: 5px;
+   height: fit-content;
+ }
+ .TenChiTwo{
+  width: 40vw;
+  padding: 5px;
+  height: fit-content;
+}
+
+ .NestedTwo a{
+   display: block;
+   word-spacing: 2.5px;
+   font-size: 14px;
+   padding: 2vw; 
+ }
+ .FollowTwo{
+   padding-top: 20px;
+   margin-left: 4vw;
+ }
+ .Arow{
+   margin-right: 10vw;
+   color: red;
+ }
+ .Last{
+   margin-top: 10px;
+   display: flex;
+ }
+ .LastL{
+   font-size: 14px;
+   width: 20vw;
+ }
+    
+}
+
+   /* For Tablet */
+@media(min-width:492px) and (max-width:1023px){
+.SevRep{
+  display: none;
+}
+  #HH{
+    width: 25vw;
+    font-size: 11px;
+    
+ }
+ #Links{
+   width: 75vw;
+   font-size: 15px;
+ }
+ .Head{
+   display: flex;
+   font-size: small;
+   
+ }
+ #Second{
+   display: flex;
+   margin-top: 50px;
+ }
+ 
+ #One{
+  font-size: 10px;
+   width: 60vw;
+ }
+ #Two{
+   width: 25vw;
+   font-size: small;
+ }
+ #Thre{
+   width: 15vw;
+   font-size: smaller;
+   
+ }
+ #FImg{
+   height: 60%;
+   width: 95%;
+ }
+ .third{
+   display: flex;
+   justify-content: space-evenly;
+ 
+ }
+ #butn{
+   color: white;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: black;
+   font-size: x-small;
+   font-style: normal;
+   word-spacing: normal;
+   height: 24px;
+   width: 120px;
+   position: absolute;
+   z-index: 3;
+ }
+ #buttn{
+   border: 1px solid black;
+   position: absolute;
+   height: 24px;
+   margin-left: 5px;
+   margin-top: 5px;
+   width: 120px;
+   z-index: 2;
+
+
+ }
+ .NChi{ 
+   font-style: italic;
+   font-size: small;
+   width: 50vw;
+   word-spacing: 4px;
+   margin-left: 10px;
+   margin-top: 5px;
+   
+ }
+ /* Fourth */
+ .fourth{
+   display: flex;
+   
+ }
+ .FChild{
+   
+   width: 50vw;
+ }
+ .NFBC{
+   margin: 3px;
+   font-weight: bold;
+   font-size: 15px;
+ }
+ .Class{
+   display: flex;
+ }
+ .NFCh{
+   font-size: 12px;
+  width: 15vw;
+  font-style: italic;
+  position:relative;
+  left: 5px;
+  color: red;
+ }
+ .NFChi{
+   font-size: 11px;
+   padding-left: 4px;
+   word-spacing: 1px;
+   width: 35vw;
+ }
+ #Imag{
+  height: 200px;
+  width: 20vw;
+  margin-right: 10px;
+  margin-left: 18px;
+  margin-top: 25px;
+}
+#Imeg{
+  height: 200px;
+  width: 20vw;
+  margin-bottom: 25px;
+  margin-left: 10px;
+}
+
+ .help{
+   margin-left: 15px;
+   font-weight: bold;
+   font-size: 15px;
+ }
+ .FChi{
+   display: flex;
+   
+ }
+ .FChiOne{
+   font-size: small;
+ }
+ .Web{
+    font-size: 20px;
+ }
+ .Para{
+   font-size: 12px;
+ }
+ .Sixth{
+
+   display: flex;
+ }
+
+ .SImg{
+   
+   height: 50vw;
+   width: 45vw;
+   margin: 10px auto;
+ }
+  
+ 
+ 
+ .FChiTwo{
+   height: 45vw;
+   width: 98vw;
+   margin: auto;
+ }
+ .SixC{
+   margin-left: 2vw;
+ }
+
+ .Seventh{
+   display: flex;
+   height: 64vw;
+   margin: 1vw;
+   width: 98vw;
+  margin-top: 17px;
+  background-color: rgb(49, 23, 5);
+  color: white;
+ }
+ .SevChi{
+   display: flex;
+   margin: auto;
+   width: 60vw;
+ }
+ .SeChiTwo{
+   width: 40vw;
+   position: relative;
+   top: 15vh;
+   left: 15vw;
+   font-size: 15px;
+  
+ }
+ .NesChi{
+    margin-left: auto; 
+   width: 25vw;
+ }
+ .Parag{
+   letter-spacing: 0.4px;
+   font-size: 10px;
+   color: white;
+ }
+ #Uniq{
+   background-color: rgb(141, 111, 90);
+   
+   color: white;
+   padding: 5px;
+ }
+ .Heading{
+    font-size: 14px;
+ }
+ .Eight{
+   display: flex;
+   height: fit-content;
+   width: 100vw;
+   border-bottom: 3px solid silver;
+   
+   margin: auto;
+ }
+ 
+ i{
+   
+   font-size: smaller;
+   letter-spacing: 2px;
+ }
+ .Icon{
+
+   color: green;
+ }
+ .ENesChi{
+   display: flex;
+   width: 50vw;
+ }
+ .RImg{
+   height: 50px;
+   width: 50px;
+   border-radius: 50%;
+ }
+ .EigChiOne{
+   height: fit-content;
+   width: 40vw;
+   margin: 2vw;
+   padding-left: 10px;
+ }
+ .Rev{
+   padding: 3px;
+ }
+ .EigChiTwo{
+   margin: 3vw;
+ }
+ .Map{
+   height: 50vw;
+   width: 50vw;
+ }
+ .Comnt{
+   font-size: 12px;
+   margin-left: 2px;
+ 
+ }
+ .aLink{
+   text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+ }
+
+ .Arrow{
+   height: max-content;
+   width: max-content;
+   color: darkorange;
+ }
+ .Tenth{
+   margin-top: 30px;
+   display: flex;
+   height: fit-content;
+   width: 100vw;
+   margin-left: auto;
+ }
+ .TenChiOne{
+   width: 60vw;
+   padding: 5px;
+   height: fit-content;
+ }
+ .TenChiTwo{
+  width: 40vw;
+  padding: 5px;
+  height: fit-content;
+}
+
+ .NestedTwo{
+   word-spacing: 2.5px;
+   font-size: 12px; 
+ }
+ .FollowTwo{
+   padding-top: 20px;
+   margin-left: 4vw;
+ }
+ .Arow{
+   margin-right: 10vw;
+   color: red;
+ }
+ .Last{
+   margin-top: 10px;
+   display: flex;
+ }
+ .LastL{
+   font-size: 14px;
+   width: 20vw;
+ }
+
+}
+
+/* For Desktop */
+@media(min-width:1024px){
+    .H1{
+       width: 50%;
+       font-size: large;
+    }
+    .Head{
+      display: flex;
+      font-size: large;
+      
+    }
+    #Second{
+      display: flex;
+      margin-top: 50px;
+    }
+    
+    #One{
+     font-size: 140%;
+      width: 60%;
+    }
+    #Two{
+      width: 30%;
+      font-size: large;
+    }
+    #Thre{
+      width: 10%;
+      
+    }
+    #FImg{
+      height: 60%;
+      width: 95%;
+    }
+    .third{
+      display: flex;
+      justify-content: space-evenly;
+    
+    }
+    #butn{
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: black;
+      font-size: small;
+      font-style: normal;
+      word-spacing: normal;
+      height: 30px;
+      width: 160px;
+      position: absolute;
+      z-index: 3;
+    }
+    #buttn{
+      border: 1px solid black;
+      position: absolute;
+      height: 30px;
+      margin-left: 5px;
+      margin-top: 5px;
+      width: 160px;
+      z-index: 2;
+
+
+    }
+    .NChi{ 
+      font-style: italic;
+      font-size: larger;
+      width: 50vw;
+      word-spacing: 6px;
+      margin-left: 10px;
+      margin-top: 30px;
+      
+    }
+    /* Fourth */
+    .fourth{
+      display: flex;
+      
+    }
+    .FChild{
+      
+      width: 50vw;
+    }
+    .NFBC{
+      margin: 3px;
+      font-weight: bold;
+      font-size: 24px;
+    }
+    .Class{
+      display: flex;
+    }
+    .NFCh{
+      font-size: 18px;
+     width: 15vw;
+     font-style: italic;
+     position:relative;
+     right: 0px;
+     color: red;
+    }
+    .NFChi{
+      font-size: 17px;
+      padding-left: 8px;
+      word-spacing: 1px;
+      width: 35vw;
+    }
+    .help{
+      margin-left: 25px;
+      font-weight: bold;
+      font-size: 24px;
+    }
+    .FChi{
+      display: flex;
+      
+    }
+    .Para{
+      font-size: 18px;
+    }
+    .Sixth{
+
+      display: flex;
+    }
+
+    .SImg{
+      margin-top: 10px;
+      height: 350px;
+      width: 49vw;
+    }
+     .STwo{
+       margin-left: 2vw;
+     }
+    #Imag{
+      height: 300px;
+      width: 15vw;
+      margin-right: 20px;
+      margin-left: 5vw;
+      margin-top: 25px;
+    }
+    #Imeg{
+      height: 300px;
+      width: 15vw;
+      margin-bottom: 25px;
+      margin-left: 20px;
+    }
+    .help{
+      margin-left: 20px;
+    }
+    
+    .FChiTwo{
+      height: 45vw;
+      width: 100vw;
+    }
+    .SixC{
+      margin-left: 2vw;
+    }
+    .SevRep{
+      display: none;
+    }
+    .Seventh{
+      display: flex;
+      height: 450px;
+      margin: 1vw;
+      width: 98vw;
+     margin-top: 17px;
+     background-color: rgb(49, 23, 5);
+     color: white;
+    }
+    .SevChi{
+      display: flex;
+      margin: auto;
+      width: 60vw;
+    }
+    .SeChiTwo{
+      width: 40vw;
+      position: relative;
+      top: 15vh;
+      left: 15vw;
+
+    }
+    .NesChi{
+       margin-left: auto; 
+      width: 25vw;
+    }
+    .Parag{
+      letter-spacing: 0.4px;
+      font-size: small;
+      color: white;
+    }
+    #Uniq{
+      background-color: rgb(141, 111, 90);
+      
+      color: white;
+      padding: 15px;
+    }
+    .Eight{
+      display: flex;
+      height: fit-content;
+      width: 100vw;
+      border-bottom: 3px solid silver;
+      
+      margin: auto;
+    }
+    
+    i{
+      
+      font-size: smaller;
+      letter-spacing: 2px;
+    }
+    .Icon{
+
+      color: green;
+    }
+    .ENesChi{
+      display: flex;
+    }
+    .RImg{
+      height: 50px;
+      width: 50px;
+      border-radius: 50%;
+    }
+    .EigChiOne{
+      height: fit-content;
+      width: 40vw;
+      margin: 2vw;
+      padding-left: 10px;
+    }
+    .Rev{
+      padding: 3px;
+    }
+    .EigChiTwo{
+      margin: 3vw;
+    }
+    .Map{
+      height: fit-content;
+      width: 50vw;
+    }
+    .Comnt{
+      margin-left: 5px;
+    
+    }
+    .aLink{
+      text-align: center;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+    }
+
+    .Arrow{
+      height: max-content;
+      width: max-content;
+      color: darkorange;
+    }
+    .Tenth{
+      margin-top: 30px;
+      display: flex;
+      height: fit-content;
+      width: 98vw;
+      margin-left: auto;
+    }
+    .TenChi{
+      width: 45vw;
+      padding: 5px;
+      height: fit-content;
+    }
+    .NestedTwo{
+      word-spacing: 5px;
+    }
+    .FollowTwo{
+      padding-top: 10px;
+      margin-left: 4vw;
+    }
+    .Arow{
+      margin-right: 30vw;
+      color: red;
+    }
+    .Last{
+      margin-top: 10px;
+      display: flex;
+    }
+    .LastL{
+
+      width: 20vw;
+    }
+
+}
